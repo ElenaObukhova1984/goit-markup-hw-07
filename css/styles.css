@@ -66,7 +66,7 @@ img {
 /*----------------------HEADER----------------------*/
 
 
-.first-part-logo {
+.header__logo--color {
     color: var(--accent-color);
 }
 
